@@ -1,0 +1,3 @@
+pytest==7.4.0         # For running test cases
+pytest-allure-adaptor==1.7.11  # Plugin for pytest to generate Allure results
+allure-pytest==2.13.4 # Alternative Allure plugin for pytest
